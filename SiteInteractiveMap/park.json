@@ -1,0 +1,16 @@
+{
+    "name": "Glacier National Park",
+
+    "midpoint": {
+        "latitude": 48.650000,
+        "longitude": -113.8853585
+    },
+    "topleft": {
+        "latitude": 49.537976,
+        "longitude": -115.469937
+    },
+    "bottomright": {
+        "latitude": 48.2665948,
+        "longitude": -113.2096996
+    }
+}

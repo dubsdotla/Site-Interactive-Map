@@ -1,0 +1,159 @@
+{
+    "campsites": [{
+            "name": "Alpha",
+            "latitude": 48.932973,
+            "longitude": -114.349416,
+            "description": "Kinta Lake"
+        },
+        {
+            "name": "Bravo",
+            "latitude": 48.826813,
+            "longitude": -114.202264,
+            "description": "Bowman Lake"
+        },
+        {
+            "name": "Charlie",
+            "latitude": 48.732413,
+            "longitude": -114.140424,
+            "description": "Logging Creek"
+        },
+        {
+            "name": "Delta",
+            "latitude": 48.523608,
+            "longitude": -113.998565,
+            "description": "Apgar"
+        },
+        {
+            "name": "Echo",
+            "latitude": 48.2726909,
+            "longitude": -113.5420697,
+            "description": "Walton Ranger Station"
+        },
+        {
+            "name": "Foxtrot",
+            "latitude": 48.479863,
+            "longitude": -113.3970039,
+            "description": "Two Medicine"
+        },
+        {
+            "name": "Golf",
+            "latitude": 49.0509592,
+            "longitude": -113.9173178,
+            "description": "Waterton Park"
+        },
+        {
+            "name": "Hotel",
+            "latitude": 48.957227,
+            "longitude": -113.887817,
+            "description": "Goat Haunt."
+        },
+        {
+            "name": "India",
+            "latitude": 49.024250,
+            "longitude": -113.690535,
+            "description": "Belly River"
+        },
+        {
+            "name": "Juliett",
+            "latitude": 48.7438654,
+            "longitude": -113.4383009,
+            "description": "St Mary"
+        },
+        {
+            "name": "Kilo",
+            "latitude": 48.6963891,
+            "longitude": -113.5256948,
+            "description": "Rising Sun"
+        },
+        {
+            "name": "Lima",
+            "latitude": 48.6952504,
+            "longitude": -113.8249843,
+            "description": "Red Rock Point"
+        },
+        {
+            "name": "Mike",
+            "latitude": 48.547496,
+            "longitude": -113.983786,
+            "description": "Fish Creek"
+        },
+        {
+            "name": "November",
+            "latitude": 48.6171161,
+            "longitude": -113.9136025,
+            "description": "Lake McDonald"
+        },
+        {
+            "name": "Oscar",
+            "latitude": 48.6829063,
+            "longitude": -113.8806389,
+            "description": "Heaven's Peak"
+        },
+        {
+            "name": "Papa",
+            "latitude": 48.7250173,
+            "longitude": -113.9635855,
+            "description": "Longfellow Peak"
+        },
+        {
+            "name": "Quebec",
+            "latitude": 48.8052966,
+            "longitude": -114.0543982,
+            "description": "Vulture Peak"
+        },
+        {
+            "name": "Romeo",
+            "latitude": 48.858942,
+            "longitude": -114.1303079,
+            "description": "Rainbow Peak"
+        },
+        {
+            "name": "Sierra",
+            "latitude": 48.8922552,
+            "longitude": -114.1711801,
+            "description": "Kintla Peak"
+        },
+        {
+            "name": "Tango",
+            "latitude": 48.9489057,
+            "longitude": -114.0919262,
+            "description": "Chapman Peak"
+        },
+        {
+            "name": "Uniform",
+            "latitude": 48.9491386,
+            "longitude": -114.0018168,
+            "description": "Olson Mountain"
+        },
+        {
+            "name": "Victor",
+            "latitude": 48.9497478,
+            "longitude": -113.8838767,
+            "description": "Mt Cleveland"
+        },
+        {
+            "name": "Whiskey",
+            "latitude": 48.940801,
+            "longitude": -113.8483405,
+            "description": "Sentinel Mountain"
+        },
+        {
+            "name": "X-ray",
+            "latitude": 48.9291304,
+            "longitude": -113.7608748,
+            "description": "Chief Mountain"
+        },
+        {
+            "name": "Yankee",
+            "latitude": 48.7890622,
+            "longitude": -113.7490578,
+            "description": "Apikuni Mountain"
+        },
+        {
+            "name": "Zulu",
+            "latitude": 48.4319137,
+            "longitude": -113.5870886,
+            "description": "Mt Stimson"
+        }
+    ]
+}
